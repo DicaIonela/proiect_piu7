@@ -1,0 +1,5 @@
+1;locul1;str1 nr1;
+2;loc2;str2 nr2;
+1;loc;ddd;
+2;loc2;rrrr;
+3;loc3;dfd;
